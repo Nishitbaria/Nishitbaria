@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Nishitbariya</h1>
 <h3 align="center">A CSE Student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/97/33/c9/9733c9dc8b89bf38b692282f2df9ce6a.gif">
