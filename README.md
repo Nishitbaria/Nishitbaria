@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishitbaria&show_icons=true&locale=en" alt="nishitbaria" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishitbaria&" alt="nishitbaria" /></p>
+
+
+ [![@nishitbaria's Holopin board](https://holopin.me/nishitbaria)](https://holopin.io/@nishitbaria) 
