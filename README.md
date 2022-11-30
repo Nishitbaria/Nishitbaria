@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishitbaria&label=Profile%20views&color=0e75b6&style=flat" alt="nishitbaria" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nishitbaria1" target="blank"><img src="https://img.shields.io/twitter/follow/nishitbaria1?logo=twitter&style=for-the-badge" alt="nishitbaria1" /></a> </p>
-- 🔭 I’m currently **pursuing Btech in CSE from KPGU ,Vadodara**
+- 🔭 I’m currently pursuing Btech in CSE from KPGU ,Vadodara
 
 - 🌱 I’m currently learning **Java,Dsa**
 
@@ -26,20 +26,32 @@
 <a href="https://discord.gg/nishitbaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nishitbaria" height="30" width="40" /></a>
 </p>
 
-## 📈 Stats
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nishitbaria&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishitbaria&theme=tokyonight"/>
+	<details>
+  <summary><b>:zap: GitHub Profile Graph</b></summary>
+	<img src="https://activity-graph.herokuapp.com/graph?username=Nishitbaria&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+</details>
 </p>
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
   <img alt="snake eating my contribution" src="https://github.com/Nishitbaria/Nishitbaria/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
-</div>
- 
- [![@nishitbaria's Holopin board](https://holopin.me/nishitbaria)](https://holopin.io/@nishitbaria)  
+  <br>      <br>     <br>      </div>
+   
+# **Badges**
+<details>
+  <summary><b>:zap: HoloPin Badges </b></summary>
+	
+[![@nishitbaria's Holopin board](https://holopin.me/nishitbaria)](https://holopin.io/@nishitbaria)  
+	
+	
+</details>
+	
+	
+	
