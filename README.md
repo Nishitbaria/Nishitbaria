@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishitbaria&label=Profile%20views&color=0e75b6&style=flat" alt="nishitbaria" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nishitbaria1" target="blank"><img src="https://img.shields.io/twitter/follow/nishitbaria1?logo=twitter&style=for-the-badge" alt="nishitbaria1" /></a> </p>
-
 - 🔭 I’m currently **pursuing Btech in CSE from KPGU ,Vadodara**
 
 - 🌱 I’m currently learning **Java,Dsa**
@@ -27,18 +26,13 @@
 <a href="https://discord.gg/nishitbaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nishitbaria" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishitbaria&show_icons=true&locale=en&layout=compact" alt="nishitbaria" /></p>
+## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nishitbaria&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishitbaria&theme=tokyonight"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishitbaria&show_icons=true&locale=en" alt="nishitbaria" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishitbaria&" alt="nishitbaria" /></p>
-
-
- [![@nishitbaria's Holopin board](https://holopin.me/nishitbaria)](https://holopin.io/@nishitbaria) 
- 
- 
- 
- 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
@@ -47,3 +41,5 @@
   <br>
   <br>
 </div>
+ 
+ [![@nishitbaria's Holopin board](https://holopin.me/nishitbaria)](https://holopin.io/@nishitbaria)  
