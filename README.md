@@ -35,7 +35,7 @@
 	<details>
   <summary><b>:zap:TOP LANGUAGE </b></summary>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishitbaria&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 	
 	
 </details>
