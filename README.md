@@ -50,7 +50,7 @@
 <details>
   <summary><b>:zap: HoloPin Badges </b></summary>
 	
-[![@nishitbaria's Holopin board](https://holopin.me/nishitbaria&theme=tokyonight)](https://holopin.io/@nishitbaria)  
+[![@nishitbaria's Holopin board](https://holopin.me/nishitbaria)](https://holopin.io/@nishitbaria)  
 	
 	
 </details>
