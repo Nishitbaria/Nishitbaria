@@ -33,8 +33,11 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nishitbaria&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishitbaria&theme=tokyonight"/>
 	<details>
-  <summary><b>:zap: GitHub Profile Graph</b></summary>
-	<img src="https://activity-graph.herokuapp.com/graph?username=Nishitbaria&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+  <summary><b>:zap:TOP LANGUAGE </b></summary>
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+	
+	
 </details>
 </p>
 
@@ -47,10 +50,13 @@
 <details>
   <summary><b>:zap: HoloPin Badges </b></summary>
 	
-[![@nishitbaria's Holopin board](https://holopin.me/nishitbaria)](https://holopin.io/@nishitbaria)  
+[![@nishitbaria's Holopin board](https://holopin.me/nishitbaria&theme=tokyonight)](https://holopin.io/@nishitbaria)  
 	
 	
 </details>
+	
+	
+	
 	
 	
 	
