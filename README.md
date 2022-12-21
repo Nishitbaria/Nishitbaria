@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/nishitbaria1" target="blank"><img src="https://img.shields.io/twitter/follow/nishitbaria1?logo=twitter&style=for-the-badge" alt="nishitbaria1" /></a> </p>
 - 🔭 I’m currently pursuing Btech in CSE from KPGU ,Vadodara
 
-- 🌱 I’m currently learning **Java,Dsa**
+- 🌱 I’m currently learning **Fullstack-Web-devlopment**
 
 - 💬 Ask me about **Web-devlopment**
 
