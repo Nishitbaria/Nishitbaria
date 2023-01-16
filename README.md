@@ -1,20 +1,8 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Nishit+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Nishit Welcome to my Profile! animated typed out">
-<h3 align="center">A CSE Student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/97/33/c9/9733c9dc8b89bf38b692282f2df9ce6a.gif">
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Nishit+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Nishit Welcome to my Profile! animated typed out">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishitbaria&label=Profile%20views&color=0e75b6&style=flat" alt="nishitbaria" /> </p>
+I am Nishit, Currently I am Learning about Full Stack Web-development.I am a technology enthusiast and an advocate for open-source projects. I am always looking for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me.  
 
-<p align="left"> <a href="https://twitter.com/nishitbaria1" target="blank"><img src="https://img.shields.io/twitter/follow/nishitbaria1?logo=twitter&style=for-the-badge" alt="nishitbaria1" /></a> </p>
-- 🔭 I’m currently pursuing Btech in CSE from KPGU ,Vadodara
-
-- 🌱 I’m currently learning **Fullstack-Web-devlopment**
-
-- 💬 Ask me about **Web-devlopment**
-
-- 📫 How to reach me **Nishitbaria@gmail.com**
-
-- ⚡ Fun fact **I THINK I AM HACKER BUT I AM NOT**
-###🌐Connect with me
+### Connect with me🌐
 <div align="left">
   <a href="https://www.youtube.com/channel/UCwsZPZcuwBnyG1ytZjFsigA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -23,8 +11,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="Nishitbaria@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/nishitbaria/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -81,10 +67,14 @@
 </details>
 </p>
 
+
+	
 <div align="center">
   <br>
   <img alt="snake eating my contribution" src="https://github.com/Nishitbaria/Nishitbaria/blob/output/github-contribution-grid-snake.svg">
   <br>      <br>     <br>      </div>
+	
+	
    
 # **Badges**
 <details>
@@ -95,7 +85,7 @@
 	
 </details>
 	
-	
+[![Nishit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nishitbaria&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/Nishitbaria/github-readme-activity-graph)	
 	
 	
 	
