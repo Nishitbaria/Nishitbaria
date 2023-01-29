@@ -80,7 +80,7 @@ I am Nishit, Currently I am Learning about Full Stack Web-development.I am a tec
 <details>
   <summary><b>:zap: HoloPin Badges </b></summary>
 	
-[![@nishitbaria's Holopin board](https://holopin.me/nishitbaria)](https://holopin.io/@nishitbaria)  
+[![@nishitbaria's Holopin board](https://holopin.me/nishitbaria)](https://holopin.io/@nishitbaria)   
 	
 	
 </details>
