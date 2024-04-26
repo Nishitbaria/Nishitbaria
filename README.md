@@ -70,10 +70,7 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nishitbaria&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishitbaria&theme=tokyonight"/>
-	<details>
-  <summary><b>:zap:TOP LANGUAGE </b></summary>
+ 
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishitbaria&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 	
